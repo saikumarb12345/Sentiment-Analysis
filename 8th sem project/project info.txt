@@ -1,0 +1,13 @@
+Title name: Sentiment Analysis of Social Media Presence.
+Description: This problem involves developing a sentiment analysis solution specifically designed for analyzing the sentiment expressed in the social media presence of individuals and organizations. 
+
+What is Sentiment analysis: Sentiment analysis refers to the process of automatically determining the sentiment or emotional tone conveyed by text or speech. [positive or negative tone]
+
+Uses of sentiment analysis: It provides insights of public perception, customer feedback, and brand reputation and manage accordingly.
+
+our project details: Finding the customer perception regarding the Amazon products using customer feedback whether it is positive or negative using Machine learning models.
+
+langauge used: Python
+libraries: pandas, numpy, matplotlib, nltk (refer google to know about these)
+Data Preprocessing Dataset: Amazon Reviews Dataset (Kaggle)
+Machine learning algorithms : Random forest, K-fold cross validation, xgboost, decision tree classifier [classification algo's]
